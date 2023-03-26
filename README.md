@@ -2,7 +2,7 @@
 
 # Hi there, I´m Josue! 👋
 
-<img align="right" alt="PC GIF" src="Assets/pc.gif" width="290" />
+<img align="right" alt="PC GIF" src="Assets/pc.gif" width="250" />
 
 <p>
     <em>
