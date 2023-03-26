@@ -16,7 +16,7 @@
 - 🐍 Python
 - 📊 Pandas
 - 📈 Matplotlib
-- 🤖 Scikit-learning
+- 🤖 Scikit-learn
 
 ### 🤝 Connect with me
 
